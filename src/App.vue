@@ -6,7 +6,7 @@ const data = ref({
     showid: "XsgsZg",
   },
   mlist: {
-    sign: "look",
+    sign: "360_206620f5",
   },
   uid: "234898968.541588155933378800.1673835122257.8027"
 });
